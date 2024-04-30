@@ -1,0 +1,2 @@
+- Variables de sesión
+
